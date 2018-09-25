@@ -5,7 +5,7 @@
   "core": "1.424.2",
   "authors" : [
     { name : "Daniel PETISME <danielpetisme> <daniel.petisme@gmail.com>" }
-  ]
+  ]test
 } END META**/
 import hudson.model.Hudson
 import com.michelin.cio.hudson.plugins.rolestrategy.RoleBasedAuthorizationStrategy
